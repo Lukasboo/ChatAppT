@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145313031208",
+    "firebase_url": "https://chatappt-4d6fc.firebaseio.com",
+    "project_id": "chatappt-4d6fc",
+    "storage_bucket": "chatappt-4d6fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145313031208:android:7fe81fa85f408c63",
+        "android_client_info": {
+          "package_name": "com.studies.lucas.chatappt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145313031208-aod9nrd86ltkn4hd30jt9ibbucl3cknt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.studies.lucas.chatappt",
+            "certificate_hash": "0777185f842384599c58e1280c171f93f5c1faa9"
+          }
+        },
+        {
+          "client_id": "145313031208-kjnelr5e4c8m5ledsjr2tghld2ndpime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV_ezsCw8RtyPvmzhLmUcmEcmiXe3QoeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145313031208-kjnelr5e4c8m5ledsjr2tghld2ndpime.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
